@@ -3,9 +3,19 @@ Work in progress
 
 default web ui IP: 192.168.0.1
 
+
+
+BASE
+
 Barebones username: user
 
 Barebones password: admin
+
+
+
+
+
+STEP ONE
 
 Elevated username: admin
 
